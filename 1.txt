@@ -1,0 +1,2 @@
+2023/04/27 08:34:58 [W] [service.go:134] login to server failed: read tcp 192.168.10.55:57387->112.231.236.226:7000: wsarecv: An existing connection was forcibly closed by the remote host.
+read tcp 192.168.10.55:57387->112.231.236.226:7000: wsarecv: An existing connection was forcibly closed by the remote host.
